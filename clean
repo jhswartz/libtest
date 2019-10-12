@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm -rf aclocal.m4 ar-lib autom4te.cache/ compile config.guess config.log config.status config.sub configure depcomp install-sh libtest-* libtool ltmain.sh m4 Makefile Makefile.in missing src/.deps src/.libs src/libtest.la src/Makefile src/Makefile.in src/*.o src/*.lo test/.deps test/.libs test/Makefile test/Makefile.in test/test test/test.log test/test-suite.log test/test-test.o test/test.trs test-driver
